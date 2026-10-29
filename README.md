@@ -33,6 +33,8 @@ Documentation
 2. Create setting.cfg from the included settings.cfg.example.
 
 	    cp settings.cfg.example settings.cfg
+   		cp settings.cfg.example settings_weekly.cfg
+   		cp settings.cfg.example settings_monthly.cfg
 
 	and update your mysql user/password inside.
 	update also the `workdir` folder to the location of this script
