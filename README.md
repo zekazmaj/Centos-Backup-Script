@@ -26,7 +26,7 @@ Documentation
 
 	    mkdir /scripts
 	    cd /scripts
-	    git clone https://github.com/ET-CS/Centos-Backup-Script.git
+	    git clone https://github.com/zekazmaj/Centos-Backup-Script.git
 
 	or copy the files manually to your prefered directory.
 
