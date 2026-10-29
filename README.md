@@ -92,9 +92,15 @@ for example:
 
 add inside:
 
-	    0 0 * * * /scripts/Centos-Backup-Script/backup.sh
+	# Svaki dan tačno u 00:00 (u ponoć)
+	0 0 * * * /opt/scripts/Centos-Backup-Script/backup.sh
+	# Prvog dana u svakom mesecu u 02:00 ujutru
+	0 2 1 * * /opt/scripts/Centos-Backup-Script/backup_monthly.sh
+	# Svakog ponedeljka u 01:00 iza ponoći
+	0 1 * * 1 /opt/scripts/Centos-Backup-Script/backup_weekly.sh
 
-Authors: [RaveMaker][RaveMaker] & [ET][ET].
+
+Authors: [RaveMaker][RaveMaker] & [ET][ET] & ZekazMaj.
 
 [RaveMaker]: http://ravemaker.net
 [ET]: http://etcs.me
