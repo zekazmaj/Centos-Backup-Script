@@ -106,4 +106,4 @@ Authors: [RaveMaker][RaveMaker] & [ET][ET] & [ZekaZmaj][ZekaZmaj].
 
 [RaveMaker]: http://ravemaker.net
 [ET]: http://etcs.me
-[ZekaZmaj]: https://www.facebook.com/zekazmaj
+[ZekaZmaj]: https://www.linkedin.com/in/slobodan-petkovic-b856399/
