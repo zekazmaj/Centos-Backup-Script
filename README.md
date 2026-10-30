@@ -102,7 +102,7 @@ add inside:
 	0 1 * * 1 /opt/scripts/Centos-Backup-Script/backup_weekly.sh
 
 
-Authors: [RaveMaker][RaveMaker] & [ET][ET] & [ZekaZmaj][ZekaZmaj].
+Authors: [RaveMaker][RaveMaker] & [ET][ET] & :serbia: [ZekaZmaj][ZekaZmaj].
 
 [RaveMaker]: http://ravemaker.net
 [ET]: http://etcs.me
